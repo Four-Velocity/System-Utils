@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-echo ($1)
+echo $1
 
 sudo apt install apt-rdepends \
 apt-show-versions \
